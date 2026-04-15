@@ -152,7 +152,7 @@ text-align: center;
 color: white;
 background:
     linear-gradient(rgba(24, 35, 28, 0.44), rgba(24, 35, 28, 0.48)),
-    url('img/photo_banniere.jpeg') center/cover no-repeat;
+    url('photo_banniere.jpeg') center/cover no-repeat;
     overflow: hidden;
 }
 
